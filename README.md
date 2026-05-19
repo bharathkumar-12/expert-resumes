@@ -292,3 +292,9 @@ For support, email support@expertresumes.com or create an issue in the repositor
 ---
 
 Built with ❤️ using Nuxt 3 and Vue 3
+
+---
+
+## Maintenance
+
+Last maintenance update: <!--LAST_UPDATED-->2026-05-19<!--/LAST_UPDATED-->
