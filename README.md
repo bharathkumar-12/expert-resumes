@@ -297,4 +297,4 @@ Built with ❤️ using Nuxt 3 and Vue 3
 
 ## Maintenance
 
-Last maintenance update: <!--LAST_UPDATED-->2026-05-23<!--/LAST_UPDATED-->
+Last maintenance update: <!--LAST_UPDATED-->2026-06-11<!--/LAST_UPDATED-->
